@@ -1,4 +1,4 @@
-# GOAL: Utilize file.readline() to read a WHOLE file line-by line!
+# GOAL: Utilize file.readline() to read a WHOLE file line-by line! 
 
 # GOAL: (soon) SORT contents of fakefile alphabetically
 
